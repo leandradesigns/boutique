@@ -500,7 +500,7 @@ layer.add(controlrect);
     var checkbutton = new Kinetic.Text({
                x: 0,
         y: 0,
-        text: '✔️',
+        text: '&#10004;',
         opacity: 0,
         fontSize: 20,
         fontStyle: 'bold',
