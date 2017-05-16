@@ -120,8 +120,6 @@ function loadImages(sources, callback) {
         };
         images[src].src = sources[src];
     }
-}
-
 
 
 
